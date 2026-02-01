@@ -1,0 +1,13 @@
+name = "Sophie"
+author = "Cian"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "53172ff3353e086076c9905da80709d34059a6a46a4ddb8de46ff6042d4483ad"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.10"

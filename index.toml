@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "039ad709a142d6103c5b871964c18a8bdf153c13e9074f0c2b91004040476387"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "0345fbfa8542b5ec84535fe2aff0f5cc4e801ecc337f926d4e2310b53f458569"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
+metafile = true
